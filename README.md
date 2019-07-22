@@ -1,3 +1,7 @@
+<h1>CLAN LABS V2 OPEN SOURCED COMING SOON!</h1>
+<p>Due to the poor source code & terrible tutorial, I've made another version of all of this.  I'm trying to automate the setup process so it's easier for the average user as well.  I don't know when it's coming out, but it's in the works.</p>
+
+<hr>
 <h1>Why?</h1>
 <hr>
 <p>Clan Labs' features are pretty neat; however, I don't like how they charge people for stuff that isn't too hard to re-create.  There are other clients that can do the same things as Clan Labs for absoultely free, but you can't see their source code--which sucks.<br><b>So here I am, recreating Clan Labs!:)</b></p>
