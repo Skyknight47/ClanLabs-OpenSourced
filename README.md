@@ -2,6 +2,7 @@
 <p>Due to the poor source code & terrible tutorial, I've made another version of all of this.  I'm trying to automate the setup process so it's easier for the average user as well.  I don't know when it's coming out, but it's in the works.<br><strong>Preview of what to expect:</strong></p>
 <ul>
   <li>https://streamable.com/kj529</li>
+  <li>Commands [p1] - https://streamable.com/xq5l7</li>
 </ul>
 
 
