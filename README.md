@@ -1,5 +1,5 @@
-<h1>CLAN LABS V2 OPEN SOURCED COMING SOON!</h1>
-<p><strong>It's literally almost public.<br><a href="https://github.com/nishi7409/ClanLabsV2-OpenSourced">This'll probably go public by next weekend.</a></strong></p>
+<h1>CLAN LABS V2 OPEN SOURCED!</h1>
+<p><strong><a href="https://github.com/nishi7409/ClanLabsV2-OpenSourced">It's out folks</a></strong></p>
 <hr>
 <h1>Why?</h1>
 <hr>
